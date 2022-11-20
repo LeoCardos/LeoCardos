@@ -6,7 +6,6 @@
 )](https://www.linkedin.com/in/leonardo-cardoso-598007231/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5553999973072)
 [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/leocardoso6)
-<a href=“https://wa.me/5553999973072“>https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white</a>
 
 ![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoCardos&show_icons=true&theme=synthwave)
 
