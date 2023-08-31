@@ -1,15 +1,16 @@
 
 
-## Olá! Eu sou o Leonardo Cardoso 😄
+## Hi, my name is Leonardo Cardoso. 😄
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/leonardo-cardoso-598007231/)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5553999973072)
-[![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/leocardoso6)
+- 🔥 Junior Web Developer.
 
-![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoCardos&show_icons=true&theme=synthwave)
+- 📚 Systems analysis and development student.
+  
+- 😉 An incessantly curious person, always improving in their studies.
 
-### Tecnologias que eu uso no meu dia
+<br>
+
+### Technologies that I use in my day!
 
 <div style="display: inline_block"><br/>
     <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -21,4 +22,10 @@
     <img aling="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </div><br/>
 
-#### Estudante de análise e desenvovlvimento de sistemas, aberto a novas experiências de trabalho.
+### Social media!
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/leonardo-cardoso-598007231/)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5553999973072)
+[![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/leocardoso6)
+
+![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoCardos&show_icons=true&theme=synthwave)
