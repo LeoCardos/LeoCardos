@@ -1,6 +1,6 @@
 
 
-## Hi, my name is Leonardo Cardoso. 😄
+## Hi, my name is Leonardo Cardoso. 😄<br><br>
 
 - 🔥 Junior Web Developer.
 
