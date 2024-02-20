@@ -19,17 +19,17 @@
 <h3 align="center"> Technologies that I use in my day! </h3>
 
 
-<div align="center" style="display: inline_block";><br/>
+<div align="center" style="display: inline_block";>
   
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,next,nodejs,tailwind,php)](https://skillicons.dev)
   
-</div><br/>
+</div>
+
+<br>
 
 <div align="center"> 
   
 <h3>Social media!</h3>
-
-<br>
 
 <a href="https://www.linkedin.com/in/leonardo-cardoso-598007231/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/></a> &nbsp;
 </div>
