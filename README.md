@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=003566&fontAlign=0&fontAlignY=0&descAlign=18&descAlignY=0"/>
 
 
 ## Hi, my name is Leonardo Cardoso. 😄<br><br>
@@ -12,20 +13,13 @@
 
 ### Technologies that I use in my day!
 
-<div style="display: inline_block"><br/>
-    <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img aling="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img aling="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img aling="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    <img aling="center" alt="Reactjs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img aling="center" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-    <img aling="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<div style="display: inline_block";><br/>
+  
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,next,nodejs,tailwind,php)](https://skillicons.dev)
+  
 </div><br/>
 
 ### Social media!
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/leonardo-cardoso-598007231/)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5553999973072)
-[![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/leocardoso6)
-
-![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoCardos&show_icons=true&theme=synthwave)
+<a href="https://www.linkedin.com/in/leonardo-cardoso-598007231/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/></a> &nbsp;
+<br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=003566&fontAlign=0&fontAlignY=0&descAlign=18&descAlignY=0&section=footer"/>
