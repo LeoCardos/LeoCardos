@@ -16,7 +16,7 @@
 
 <br>
 
-<h2 align="center"> Technologies that I use in my day! </h2>
+<h3 align="center"> Technologies that I use in my day! </h3>
 
 
 <div align="center" style="display: inline_block";><br/>
@@ -27,7 +27,9 @@
 
 <div align="center"> 
   
-<h2>Social media!</h2>
+<h3>Social media!</h3>
+
+<br>
 
 <a href="https://www.linkedin.com/in/leonardo-cardoso-598007231/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/></a> &nbsp;
 </div>
