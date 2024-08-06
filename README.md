@@ -21,7 +21,7 @@
 
 <div align="center" style="display: inline_block";>
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,tailwind,php)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,tailwind,php,vite)](https://skillicons.dev)
   
 </div>
 
