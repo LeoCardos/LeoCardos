@@ -6,7 +6,7 @@
 <br>
 <div align="center">
   
-  🔥 Junior Web Developer.
+  🔥 Pleno Web Developer.
 
   📚 Systems analysis and development student.
 
