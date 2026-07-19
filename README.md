@@ -1,38 +1,60 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=003566&fontAlign=0&fontAlignY=0&descAlign=18&descAlignY=0"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=35&duration=3000&pause=2000&color=0085FFFF&center=true&vCenter=true&width=1000&lines=Hello+Guys%2C+my+name%C2%B4s+Leonardo;I%C2%B4m+a+Front-end+Developer+from+Brazil%2C+RS)](https://git.io/typing-svg)
-
-##
-<br>
 <div align="center">
-  
-  🔥 Pleno Web Developer.
 
-  📚 Systems analysis and development student.
+# Leonardo Cardoso
+### Mid-Level Web Developer
 
-  😉 An incessantly curious person, always improving in their studies.
-  
+*Building reliable, scalable web solutions — from WordPress systems to modern JavaScript applications.*
+
 </div>
 
-<br>
+---
 
-<h3 align="center"> Technologies that I use in my day! </h3>
+## About
 
+I'm a mid-level (Pleno) Web Developer with hands-on experience delivering end-to-end solutions for real clients — from debugging production issues under pressure to building landing pages and internal tools from scratch. Currently pursuing a degree in Systems Analysis and Development, I combine practical, client-facing experience with a continuous drive to deepen my technical foundation.
 
-<div align="center" style="display: inline_block";>
-  
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,tailwind,php,vite)](https://skillicons.dev)
-  
+I care about clean, maintainable code, and about understanding *why* something breaks — not just patching it.
+
+---
+
+## Core Stack
+
+**Languages & Markup**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+**Frameworks & Libraries**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Also working with**
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## What I Do
+
+- **Full-cycle web development** — from architecture decisions to production debugging
+- **WordPress & PHP systems** — custom development, troubleshooting, and hosting environment (Cloudways) management
+- **Front-end engineering** — responsive, performance-conscious interfaces using React, Vue and modern CSS
+- **Client-facing delivery** — translating business requirements into working, maintained solutions
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+
 </div>
 
-<br>
-
-<div align="center"> 
-  
-<h3>Social media!</h3>
-
-<a href="https://www.linkedin.com/in/leonardo-cardoso-598007231/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/></a> &nbsp;
+<div align="center">
+<sub>Always learning, always building.</sub>
 </div>
-
-<br>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=003566&fontAlign=0&fontAlignY=0&descAlign=18&descAlignY=0&section=footer"/>
