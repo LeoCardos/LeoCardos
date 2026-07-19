@@ -11,9 +11,9 @@
 
 ## About
 
-I'm a mid-level (Pleno) Web Developer with hands-on experience delivering end-to-end solutions for real clients — from debugging production issues under pressure to building landing pages and internal tools from scratch. Currently pursuing a degree in Systems Analysis and Development, I combine practical, client-facing experience with a continuous drive to deepen my technical foundation.
+I'm a mid-level (Pleno) Web Developer with hands-on experience delivering end-to-end solutions for real clients from debugging production issues under pressure to building landing pages and internal tools from scratch. Currently pursuing a degree in Systems Analysis and Development, I combine practical, client-facing experience with a continuous drive to deepen my technical foundation.
 
-I care about clean, maintainable code, and about understanding *why* something breaks — not just patching it.
+I care about clean, maintainable code, and about understanding *why* something breaks not just patching it.
 
 ---
 
@@ -40,10 +40,10 @@ I care about clean, maintainable code, and about understanding *why* something b
 
 ## What I Do
 
-- **Full-cycle web development** — from architecture decisions to production debugging
-- **WordPress & PHP systems** — custom development, troubleshooting, and hosting environment (Cloudways) management
-- **Front-end engineering** — responsive, performance-conscious interfaces using React, Vue and modern CSS
-- **Client-facing delivery** — translating business requirements into working, maintained solutions
+- **Full-cycle web development** from architecture decisions to production debugging
+- **WordPress & PHP systems** custom development, troubleshooting, and hosting environment (Cloudways) management
+- **Front-end engineering** responsive, performance-conscious interfaces using React, Vue and modern CSS
+- **Client-facing delivery** translating business requirements into working, maintained solutions
 
 ---
 
