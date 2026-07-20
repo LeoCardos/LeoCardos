@@ -3,7 +3,7 @@
 # Leonardo Cardoso
 ### Mid-Level Web Developer
 
-*Building reliable, scalable web solutions — from WordPress systems to modern JavaScript applications.*
+*Building reliable, scalable web solutions from WordPress systems to modern JavaScript applications.*
 
 </div>
 
